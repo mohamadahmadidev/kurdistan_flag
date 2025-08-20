@@ -28,4 +28,4 @@ You can use the SVG directly in your HTML or as an image:
 
 ## License
 
-This SVG is free to use for any purpose. Attribution appreciated but not required.
+This SVG is free to use for any purpose.
